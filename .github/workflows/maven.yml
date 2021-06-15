@@ -33,5 +33,5 @@ jobs:
         # Email that you use with heroku
           heroku_email: wiliamli.dev@gmail.com
         # The appname to use for deploying/updating
-          heroku_app_name: peaceful-tor-45580
+          heroku_app_name: dhwauhduwahdwa
         
